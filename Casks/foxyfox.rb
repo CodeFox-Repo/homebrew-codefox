@@ -1,6 +1,6 @@
 cask "foxyfox" do
   version "0.0.1"
-  sha256 "7ecaa1427c57b011938ccb1b8ebfe0c03b623758412eda26e7b7a0401ce2ae5e"
+  sha256 "355768ce2057d5a15f0133699592795ac3390d1e6f17798166c0022c3ee373bf"
   
   url "https://github.com/CodeFox-Repo/homebrew-codefox/releases/download/v#{version}/FoxyFox-#{version}-arm64.dmg"
   name "FoxyFox"
