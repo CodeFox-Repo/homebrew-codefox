@@ -1,8 +1,8 @@
 cask "foxychat" do
-  version "20250704004431"
-  sha256 "61da417eb288ba3cff4185aa97ac03149739729026174c3ac6010854b23aebac"
+  version "0.0.16"
+  sha256 "401f88d822b9e4f8e14c2f3999ae63f8338e98763a8f34212d88f998a7274df1"
   
-  url "https://github.com/CodeFox-Repo/homebrew-codefox/releases/download/v20250704004431/FoxyChat-#{version}-arm64.dmg"
+  url "https://github.com/CodeFox-Repo/homebrew-codefox/releases/download/v0.0.16/FoxyChat-#{version}-arm64.dmg"
   name "FoxyChat"
   desc "All in one Chat App"
   homepage "https://github.com/CodeFox-Repo/foxychat"
